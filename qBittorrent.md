@@ -1,4 +1,4 @@
-Usb configuration
+# Usb configuration
   add Qbittorent user write access to the usb location
 
 dietpi@DietPi:/mnt/usb/torrent_downloads/temp $ sudo chown -R qbittorrent /mnt/usb/torrent_downloads/
